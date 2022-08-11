@@ -1,5 +1,8 @@
 # Slimp-custom-widget
-Widget for Slimp app to use in streamelement overlay. Implements alert box functionality. Video in the end.
+
+Slimp app for streaming IRL, visit our [site](https://slimp.tv) for more info.
+
+Widget for Slimp app to use in streamelement overlay. Implements alert box functionality. Video is avalible on [YouTube](https://youtu.be/NTkAn4MKSoE).
 
 Here you can find code to recreate a custom widget in streamelement overlay. 
 <img src="https://user-images.githubusercontent.com/79143038/184177385-37f85a2b-b411-402b-986d-18b53a161cb4.png" alt="Custom widget" width="700"/>
