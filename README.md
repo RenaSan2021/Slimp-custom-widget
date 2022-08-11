@@ -1167,5 +1167,9 @@ function stringToAnimatedHTML(s, anim) {
 {"eventsLimit":0,"includeFollowers":"yes","includeRedemptions":"yes","includeHosts":"yes","minHost":1,"includeRaids":"yes","minRaid":1,"includeSubs":"yes","includeTips":"yes","minTip":1,"includeCheers":"yes","minCheer":1,"direction":"top","textOrder":"nameFirst","fadeoutTime":5,"fontColor":"rgb(91, 207, 90)","theme":"hexagons","locale":"en-US","textFollower":"is following!","textRedeemed":"Redeemed","textHost":"is now hosting my stream with","textRaid":"Raid","textSubGift":"Gift subsribtion","textCheer":"Cheered x","textSub":"just subscribed!","textTip":"tipped","defaultImageSize":46,"defaultImgHeight":1,"defaultImageFollower":"https://cdn.streamelements.com/static/alertbox/default.gif","defaultImageSizeFollower":89,"defaultImgHeightFollower":22,"defaultImageRedeemed":"https://cdn.streamelements.com/static/alertbox/default.gif","defaultImageRaid":"https://cdn.streamelements.com/static/alertbox/default.gif","defaultImageHost":"https://cdn.streamelements.com/static/alertbox/default.gif","defaultImageSub":"https://cdn.streamelements.com/static/alertbox/default.gif","defaultImageSubGift":"https://cdn.streamelements.com/static/alertbox/default.gif","defaultImageTip":"https://cdn.streamelements.com/static/alertbox/default.gif","defaultImageCheer":"https://cdn.streamelements.com/static/alertbox/default.gif","fontSize":20,"fontSizeName":29}
 ```
 
-# That's it
+# That's it (Video)
+
+You can add another widgets and use the link in Slimp app.
+
+Video is avalible on [YouTube](https://youtu.be/NTkAn4MKSoE).
 
